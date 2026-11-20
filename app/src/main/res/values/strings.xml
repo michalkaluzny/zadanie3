@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="pl">
+    <string name="app_name">zadanie3</string>
+
+    <!-- Ekran główny -->
+    <string name="przycisk_autor">Wywołaj aktywność z imieniem i nazwiskiem</string>
+    <string name="przycisk_strona_www">Wywołaj aplikację obsługującą podany adres URL</string>
+    <string name="przycisk_polozenie">Wyświetl aktywność z danym położeniem (GEO:)</string>
+    <string name="adres_poczatkowy">http://</string>
+    <string name="podpowiedz_adres_www">np. https://www.google.pl</string>
+    <string name="komunikat_pusty_adres">Najpierw wpisz adres strony</string>
+    <string name="komunikat_brak_przegladarki">Brak aplikacji, która otworzy ten adres</string>
+
+    <!-- Wizytówka autora -->
+    <string name="imie_i_nazwisko">Michał Kałużny</string>
+    <string name="wskazowka_powrotu">Kliknij przycisk back by wrócić do poprzedniego ekranu</string>
+
+    <!-- Lokalizacja GPS -->
+    <string name="naglowek_lokalizacji">Android Location</string>
+    <string name="przycisk_start">START</string>
+    <string name="przycisk_stop">STOP</string>
+    <string name="etykieta_szerokosc">Szerokość:</string>
+    <string name="etykieta_dlugosc">Długość:</string>
+    <string name="brak_wartosci">—</string>
+    <string name="status_gotowy">Naciśnij START, aby pobrać położenie</string>
+    <string name="status_szukam">Szukam sygnału GPS…</string>
+    <string name="status_odebrano">Odebrano aktualne położenie</string>
+    <string name="status_zatrzymano">Nasłuch GPS zatrzymany</string>
+    <string name="status_gps_wylaczony">GPS jest wyłączony – włącz lokalizację w ustawieniach</string>
+    <string name="status_brak_zgody">Brak zgody na dokładną lokalizację</string>
+</resources>
